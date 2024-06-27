@@ -60,9 +60,9 @@
     <Content Include="App_Config\Include\Environment\Mvp.Environment.GraphQL.config" />
 	<Content Include="bin\HedgehogDevelopment.Razl.Service.dll" />
 	<Content Include="_CMP\RazlService.asmx" />
-	<Content Include="_CMP\web.config" />
     <None Include="Platform.wpp.targets" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
+  <Content Include="_CMP\web.config" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
